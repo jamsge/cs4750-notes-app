@@ -1,0 +1,5 @@
+{
+    "typescript.tsdk": "functions/node_modules/typescript/lib",
+    "javascript.suggest.autoImports": true,
+    "typescript.suggest.autoImports": true
+  }
